@@ -1,3 +1,3 @@
 ''' python.py '''
 import datetime
-print(datetim-e.datetime.now())
+print(datetime.datetime.now())
